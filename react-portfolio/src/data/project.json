@@ -1,0 +1,26 @@
+[
+    {
+      "title": "WanderLust ",
+      "imageSrc": "project.png",
+      "description": "The Project help people who want to rent and out their property with people who are looking for accommodations, typically for short stays.",
+      "skills": ["Html","Css","Js","React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Library Management System",
+      "imageSrc": "project.png",
+      "description": "Developed a web portal helps the librarian to maintain the record of issued book.",
+      "skills":["Html","Css","Js","React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Weather Forcast App",
+      "imageSrc": "project.png",
+      "description": "Accurate and intuitive weather forecasting app providing real-time updates and personalized alerts.",
+      "skills": ["Html","Css","Js","React"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
